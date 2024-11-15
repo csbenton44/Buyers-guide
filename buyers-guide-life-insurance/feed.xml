@@ -18,71 +18,71 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
+.navbar a{
+font-size: 18.2px!important;
+font-weight: bold;
+}
 html{
 scroll-behavior: smooth;
 }
-.y31914695ee8fb81a2d568e28b0cfedda{
+.c9a6b61584222b2f73663af96c65c9072 p,.c9a6b61584222b2f73663af96c65c9072 span,.c9a6b61584222b2f73663af96c65c9072 label{
+font-size:16px!important;
+}
+a{
+text-decoration: none!important;
+}
+.btn-md{
+padding: 14.5px 29.7px;
+border-radius: 0;
+}
+.a523477ae87eb4df98066fb8f657a82f3:hover{
+box-shadow: 0 49.5px 49.7px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.a980e62b9b61764fbef5e20b5cc6ed911 p,.a980e62b9b61764fbef5e20b5cc6ed911 a,.a980e62b9b61764fbef5e20b5cc6ed911 span,.a980e62b9b61764fbef5e20b5cc6ed911 label{
+font-size:16px!important;
+}
+.nav-item{
+padding-left:8.5px;
+padding-right:7.6px;
+padding-top:5.2px;
+padding-bottom:4.5px;
+}
+.f701ef5c4784db4ba183b65193d804bee{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
 }
-footer *{
-font-size:16px !important;
+*{
+font-family: 'Kumbh Sans', sans-serif;
 }
 footer{
-background:#121212;
+background:#020202;
 color:#ffffff;
-}
-.nav-item{
-padding-left:7.9px;
-padding-right:7.8px;
-padding-top:5.4px;
-padding-bottom:4.5px;
-}
-ul{
-list-style: circle;
 }
 a:hover{
 color:#ffffff;background:#ffc658!important;
 }
-.z8e4877a4302ca95e22cd8a25e3ce1e13:hover{
-box-shadow: 0 50.5px 49.6px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
+footer *{
+font-size:16px !important;
+}
+.a980e62b9b61764fbef5e20b5cc6ed911 a,.c9a6b61584222b2f73663af96c65c9072 a{
+color:#101010!important;
+text-decoration: underline !important;
 }
 .nav-link{
 color: #000000;
 
 }
+ul{
+list-style: circle;
+}
+.c9a6b61584222b2f73663af96c65c9072 a{
+font-size:16px;
+}
 footer a{
 color:#ffffff;
 text-decoration: underline;
-}
-.navbar a{
-font-size: 18.3px!important;
-font-weight: bold;
-}
-.u7ab37495176446e423ad0a69290b7c17 a,.x4b4f84d4687052f773853ef10e6694d8 a{
-color:#131313!important;
-text-decoration: underline !important;
-}
-.btn-md{
-padding: 14.6px 30.1px;
-border-radius: 0;
-}
-.x4b4f84d4687052f773853ef10e6694d8 p,.x4b4f84d4687052f773853ef10e6694d8 span,.x4b4f84d4687052f773853ef10e6694d8 label{
-font-size:16px!important;
-}
-.u7ab37495176446e423ad0a69290b7c17 p,.u7ab37495176446e423ad0a69290b7c17 a,.u7ab37495176446e423ad0a69290b7c17 span,.u7ab37495176446e423ad0a69290b7c17 label{
-font-size:16px!important;
-}
-.x4b4f84d4687052f773853ef10e6694d8 a{
-font-size:16px;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-a{
-text-decoration: none!important;
 }
 </style>
 </head>
@@ -91,26 +91,26 @@ text-decoration: none!important;
 <a class="navbar-brand" href="index.html"  ><img alt="img/cropped-coach-b-insurance-300x74.png" src="img/cropped-coach-b-insurance-300x74.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="navbar-nav align-items-center d-flex ml-auto"><li class="nav-item">
-<a class="nav-link y1b1b50fd9b6e7324ed261668f05cd360" href="index.html" >buyers guide life insurance</a>
+<ul class="align-items-center d-flex navbar-nav ml-auto"><li class="nav-item">
+<a class="nav-link b02a1e30009da47ae6ad51d1e44959f1b" href="index.html" >buyers guide life insurance</a>
 </li>
 <li class="nav-item">
-<a class="nav-link y1b1b50fd9b6e7324ed261668f05cd360" href="buyers-of-life-insurance-policies.html" >buyers of life insurance policies</a>
+<a class="nav-link b02a1e30009da47ae6ad51d1e44959f1b" href="buyers-of-life-insurance-policies.html" >buyers of life insurance policies</a>
 </li>
 <li class="nav-item">
-<a class="nav-link y1b1b50fd9b6e7324ed261668f05cd360" href="life-insurance-buyers-guide.html" >life insurance buyer's guide</a>
+<a class="b02a1e30009da47ae6ad51d1e44959f1b nav-link" href="life-insurance-buyers-guide.html" >life insurance buyer's guide</a>
 </li>
 <li class="nav-item">
-<a class="y1b1b50fd9b6e7324ed261668f05cd360 nav-link" href="what-is-a-buyers-guide-in-life-insurance.html" >what is a buyer's guide in life insurance</a>
+<a class="nav-link b02a1e30009da47ae6ad51d1e44959f1b" href="what-is-a-buyers-guide-in-life-insurance.html" >what is a buyer's guide in life insurance</a>
 </li>
 <li class="dropdown nav-item">
-<a class="dropdown-toggle y1b1b50fd9b6e7324ed261668f05cd360 nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<a class="dropdown-toggle b02a1e30009da47ae6ad51d1e44959f1b nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
 <a class="dropdown-item" href="buyers-guide-insurance.html"  >buyer's guide insurance</a><a class="dropdown-item" href="life-insurance-buyers-guide-pdf.html"  >life insurance buyer's guide pdf</a><a class="dropdown-item" href="buyers-guide-and-policy-summary.html"  >buyers guide and policy summary</a></div>
 </li>
-<li class="nav-item"><a class="nav-link y1b1b50fd9b6e7324ed261668f05cd360" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="nav-link b02a1e30009da47ae6ad51d1e44959f1b" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="btn-md btn y31914695ee8fb81a2d568e28b0cfedda" href="https://coachbinsurance.com/contact-us/" rel="nofollow">Contact Us</a>
+<a class="btn-md f701ef5c4784db4ba183b65193d804bee btn" href="https://coachbinsurance.com/contact-us/" rel="nofollow">Contact Us</a>
 </li>
 </ul>
 </div>
@@ -178,7 +178,7 @@ info@coachbinsurance.com</br>
 </p>
 </section>
 <footer>
-<div class="container py-4 pt-5" >
+<div class="pt-5 container py-4" >
 <div class="row"><div class="col-lg-3">
 <p>Coach B. Insurance</p>
 <p>Phone : 800-342-1537</p>
@@ -187,27 +187,27 @@ info@coachbinsurance.com</br>
 <p>State : Kentucky</p>
 <p>Zip : 41091</p>
 <p>Address : 10229 Hamlet Court</p>
-<p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://www.google.com/search?q=Coach+B.+Insurance&amp;stick=H4sIAAAAAAAAAONgU1I1qLCwMDFMNjRPSzVMMrdIMTK1MqgwTjYyM0k1MUyxMEo0N081WMQq5JyfmJyh4KSn4JlXXFqUmJecCgBmJe_ZPgAAAA&amp;hl=en&amp;mat=CdtrvRnBkxRBElYBT5f1BsIvRH2yirYJhxHaTgKog_oo2aB1RaIctcpcoeJVgNh1lgBatIhbJ8NmD5QDJrrtrvPvf3-MmlWCtFpLtmsWJOEZFmcGJYGEEOJMlnr-X2tIPw&amp;authuser=0" rel="nofollow"> Google Business Profile</a></p>
-<p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://coachbinsurance.business.site/?m=true" rel="nofollow">Google Business Website</a></p>
-<p>Company Website : <a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://coachbinsurance.com" rel="nofollow">https://coachbinsurance.com</a></p>
+<p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://www.google.com/search?q=Coach+B.+Insurance&amp;stick=H4sIAAAAAAAAAONgU1I1qLCwMDFMNjRPSzVMMrdIMTK1MqgwTjYyM0k1MUyxMEo0N081WMQq5JyfmJyh4KSn4JlXXFqUmJecCgBmJe_ZPgAAAA&amp;hl=en&amp;mat=CdtrvRnBkxRBElYBT5f1BsIvRH2yirYJhxHaTgKog_oo2aB1RaIctcpcoeJVgNh1lgBatIhbJ8NmD5QDJrrtrvPvf3-MmlWCtFpLtmsWJOEZFmcGJYGEEOJMlnr-X2tIPw&amp;authuser=0" rel="nofollow"> Google Business Profile</a></p>
+<p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://coachbinsurance.business.site/?m=true" rel="nofollow">Google Business Website</a></p>
+<p>Company Website : <a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://coachbinsurance.com" rel="nofollow">https://coachbinsurance.com</a></p>
 </div><div class="col-lg-3">
 <p>USEFUL LINKS</p>
-<p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://buyers-guide-life-insurance.b-cdn.net/index.html" rel="nofollow" target="_blank">Buyers guide life insurance</a></p><p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://buyers-guide.s3.us.cloud-object-storage.appdomain.cloud/buyers-guide-life-insurance/index.html" rel="nofollow" target="_blank">Buyers of life insurance policies</a></p></div><div class="col-lg-3"><p>LATEST BLOGPOSTS</p> 
+<p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://buyers-guide-life-insurance.b-cdn.net/index.html" rel="nofollow" target="_blank">Buyers guide life insurance</a></p><p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://buyers-guide.s3.us.cloud-object-storage.appdomain.cloud/buyers-guide-life-insurance/index.html" rel="nofollow" target="_blank">Buyers of life insurance policies</a></p><p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://github.com/csbenton44/Buyers-guide/blob/main/buyers-guide-life-insurance/index.html" rel="nofollow" target="_blank">Life insurance buyer's guide	</a></p><p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://ewr1.vultrobjects.com/buyers-guide/buyers-guide-life-insurance/index.html" rel="nofollow" target="_blank">What is a buyer's guide in life insurance</a></p><p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://usc1.contabostorage.com/1437e9f40b0a4d1388c7047c43735856:buyers-guide/buyers-guide-life-insurance/index.html" rel="nofollow" target="_blank">buyer's guide insurance</a></p></div><div class="col-lg-3"><p>LATEST BLOGPOSTS</p> 
  
-<p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://coachbinsurance.com/life/final-expense/"  target="_blank">Final Expense</a></p><p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://coachbinsurance.com/life/term/"  target="_blank">Term Life</a></p><p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://coachbinsurance.com/life/no-medical-exam/"  target="_blank">No Medical Exam</a></p><p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="https://coachbinsurance.com/life/whole-life/"  target="_blank">Whole Life</a></p>
-<p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="y1b1b50fd9b6e7324ed261668f05cd360" href="about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://coachbinsurance.com/life/final-expense/"  target="_blank">Final Expense</a></p><p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://coachbinsurance.com/life/term/"  target="_blank">Term Life</a></p><p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://coachbinsurance.com/life/no-medical-exam/"  target="_blank">No Medical Exam</a></p><p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="https://coachbinsurance.com/life/whole-life/"  target="_blank">Whole Life</a></p>
+<p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="b02a1e30009da47ae6ad51d1e44959f1b" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/coachbinsurance/" class="we32200d91cc04b370a640d7557f3d573 facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.linkedin.com/company/coach-b-insurance/" class="we32200d91cc04b370a640d7557f3d573 pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
-<a href="https://www.instagram.com/coachbinsurance/" class="google we32200d91cc04b370a640d7557f3d573-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/channel/UCzxtEIshyOFL8Ez-9AxgxKg/channels" class="we32200d91cc04b370a640d7557f3d573 youtube" rel="nofollow"><i class="fa fa-youtube"></i></a>
-<a href="https://twitter.com/coachbinsurance" class="we32200d91cc04b370a640d7557f3d573 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
-<a href="https://www.tumblr.com/blog/coachbinsurance" class="we32200d91cc04b370a640d7557f3d573 tumblr" rel="nofollow"><i class="fa fa-tumblr"></i></a>
+<a href="https://www.facebook.com/coachbinsurance/" class="facebook a4d386b0874aebaad5d15d4eca5cde966" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/company/coach-b-insurance/" class="pinterest a4d386b0874aebaad5d15d4eca5cde966" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/coachbinsurance/" class="a4d386b0874aebaad5d15d4eca5cde966 google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/channel/UCzxtEIshyOFL8Ez-9AxgxKg/channels" class="youtube a4d386b0874aebaad5d15d4eca5cde966" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://twitter.com/coachbinsurance" class="a4d386b0874aebaad5d15d4eca5cde966 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.tumblr.com/blog/coachbinsurance" class="tumblr a4d386b0874aebaad5d15d4eca5cde966" rel="nofollow"><i class="fa fa-tumblr"></i></a>
 </div>
 </div></div>
 </div>
